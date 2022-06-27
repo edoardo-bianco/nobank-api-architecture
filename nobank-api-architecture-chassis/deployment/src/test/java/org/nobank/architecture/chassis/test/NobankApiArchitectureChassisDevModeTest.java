@@ -1,4 +1,4 @@
-package org.nobank.architecture.api.chassis.test;
+package org.nobank.architecture.chassis.test;
 
 import org.jboss.shrinkwrap.api.ShrinkWrap;
 import org.jboss.shrinkwrap.api.spec.JavaArchive;

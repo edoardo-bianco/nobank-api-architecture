@@ -5,4 +5,4 @@ metadata:
   extension-dependencies:
   - "io.quarkus:quarkus-arc"
   - "io.quarkus:quarkus-core"
-artifact: "org.nobank.architecture:nobank-api-architecture-chassis::jar:1.0.0-SNAPSHOT"
+artifact: "org.nobank.architecture:nobank-api-architecture-chassis::jar:1.0.1-SNAPSHOT"
