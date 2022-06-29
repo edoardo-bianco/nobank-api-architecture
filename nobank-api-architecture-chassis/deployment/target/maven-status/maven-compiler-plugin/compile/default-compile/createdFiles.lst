@@ -1,4 +1,4 @@
-org/nobank/architecture/chassis/deployment/NobankApiArchitectureChassisProcessor$$accessor.class
-META-INF/quarkus-javadoc.properties
-org/nobank/architecture/chassis/deployment/NobankApiArchitectureChassisProcessor.class
-META-INF/quarkus-build-steps.list
+META-INF\quarkus-build-steps.list
+META-INF\quarkus-javadoc.properties
+org\nobank\architecture\chassis\deployment\NobankApiArchitectureChassisProcessor$$accessor.class
+org\nobank\architecture\chassis\deployment\NobankApiArchitectureChassisProcessor.class

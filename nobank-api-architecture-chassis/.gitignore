@@ -1,5 +1,8 @@
 #Maven
 target/
+deployment/target/
+runtime/target/
+integration-tests/target/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
